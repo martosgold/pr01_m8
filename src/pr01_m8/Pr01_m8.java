@@ -18,7 +18,7 @@ public class Pr01_m8 {
             bw.newLine();
             bw.write(" <title>");
             bw.newLine();
-            bw.write(" Nova p&agrave;gina web");
+            bw.write(" Nova pagina web");
             bw.newLine();
             bw.write(" </title>");
             bw.newLine();
